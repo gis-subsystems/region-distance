@@ -1,0 +1,20 @@
+{
+  "name": "region-distance",
+  "version": "0.0.1",
+  "description": "Calculate distance between coordinates retrieved by their postcode.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gis-subsystems/region-distance.git"
+  },
+  "keywords": [
+    "gis",
+    "postcode",
+    "coordinates"
+  ],
+  "author": "Gis Subsystems",
+  "license": "MIT"
+}
