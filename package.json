@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/gis-subsystems/region-distance.git"
   },
+  "dependencies": {
+    "PL": "git+https://github.com/zipcodes/PL.git#ddfc818"
+  },
   "keywords": [
     "gis",
     "postcode",
